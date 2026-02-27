@@ -86,11 +86,11 @@ API available at `http://localhost:8000`
 
 ## API Documentation
 
-### Health Check
-`
-GET /
-`
 
+```
+GET /
+```
+### Health Check
 ### Interactive API Documentation (OpenAPI/Swagger)
 ```
 GET /docs
